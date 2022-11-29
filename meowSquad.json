@@ -1,0 +1,40 @@
+{
+  "squadName" : "Super Kitties Squad",
+  "homeTown" : "Meow Town",
+  "formed" : 2016,
+  "secretBase" : "Cat Tree Underground",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Ruby Jump",
+      "age" : 3.5,
+      "secretIdentity" : "Pipi",
+      "powers" : [
+        "High Jump",
+        "Super alert",
+        "Noise Attack"
+      ]
+    },
+    {
+      "name" : "Mabel the Cutie",
+      "age" : 3.5,
+      "secretIdentity" : "Meimei",
+      "powers" : [
+        "Extraordinary Disguise",
+        "Curing Sadness",
+        "Champion of World Cup(Meow Version)"
+      ]
+    },
+    {
+      "name" : "Didi",
+      "age" : 2,
+      "secretIdentity" : "Piggy Boy",
+      "powers" : [
+        "Finding Food",
+        "Grabing Food in a flash",
+        "Persistence",
+        "Acute hearing"
+      ]
+    }
+  ]
+}
